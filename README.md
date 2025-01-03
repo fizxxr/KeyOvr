@@ -3,8 +3,6 @@
     <h1>KeyOvr</h1>
 </div>
 
-# KeyOvr
-
 KeyOvr (stands for Keystroke Overlay) is an open source WASD keystroke visualizer.
 
 ## Install
@@ -16,6 +14,9 @@ Download the latest "KeyOvr.dmg" file from the [Release page](https://github.com
 ### Homebrew
 
 (soon)
+
+## Troubleshooting
+
 
 
 ## License

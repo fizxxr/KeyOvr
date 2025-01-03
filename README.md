@@ -1,3 +1,5 @@
+![Icon](assets/AppIcon.png)
+
 # KeyOvr
 
 

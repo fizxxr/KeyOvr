@@ -1,7 +1,8 @@
 <div align="center">
     <img src="assets/AppIcon-256.png" width=200 height=200>
-    <h1>Ice</h1>
+    <h1>KeyOvr</h1>
 </div>
+
 # KeyOvr
 
 KeyOvr (stands for Keystroke Overlay) is an open source WASD keystroke visualizer.

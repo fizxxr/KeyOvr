@@ -9,11 +9,11 @@ KeyOvr (stands for Keystroke Overlay) is an open source WASD keystroke visualize
 
 ### Manual Installation
 
-Download the latest "KeyOvr.dmg" file from the [Release page](https://github.com/fizxxr/KeyOvr/releases) then open the dmg and drag the app into the `Applications` folder.
+Download the latest `KeyOvr.dmg` file from the [Release page](https://github.com/fizxxr/KeyOvr/releases) then open the dmg and drag the app into the `Applications` folder.
 
 ### Homebrew
 
-(soon)
+`(soon)`
 
 ## Troubleshooting
 

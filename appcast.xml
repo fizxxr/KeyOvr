@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>KeyOvr</title>
+        <item>
+            <title>0.2</title>
+            <pubDate>Fri, 03 Jan 2025 10:24:07 +0700</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/fizxxr/KeyOvr/releases/download/v0.2/KeyOvr-v0.2.dmg" length="3618177" type="application/octet-stream" sparkle:edSignature="wtbh+bAuQ8OFjhr83dkaSkX/vmlVQRmiiyjDK26RorGcAGkBZ7pq+0ufaB1lHVtgRbvbZ0zfrAmsSeQKxykVBw=="/>
+        </item>
+    </channel>
+</rss>

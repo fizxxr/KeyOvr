@@ -1,7 +1,7 @@
-![Icon](assets/AppIcon.png)
-
+![Icon](assets/AppIcon-256.png)
 # KeyOvr
 
+KeyOvr (stands for Keystroke Overlay) is an open source WASD keystroke visualizer.
 
 
 ## License

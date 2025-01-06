@@ -1,9 +1,14 @@
-![image](https://github.com/user-attachments/assets/d97b0cb4-4a06-45b2-8722-34216fe77c08)<div align="center">
+<div align="center">
     <img src="assets/AppIcon-256.png" width=200 height=200>
     <h1>KeyOvr</h1>
 </div>
 
 KeyOvr (stands for Keystroke Overlay) is an open source WASD keystroke visualizer.
+
+[![Download](https://img.shields.io/badge/download-latest-brightgreen?style=flat-square)](https://github.com/fizxxr/KeyOvr/releases/latest)
+![Platform](https://img.shields.io/badge/platform-macOS-blue?style=flat-square)
+![Requirements](https://img.shields.io/badge/requirements-macOS%2014%2B-fa4e49?style=flat-square)
+[![License](https://img.shields.io/github/license/fizxxr/KeyOvr?style=flat-square)](LICENSE)
 
 ## Installation
 

@@ -66,7 +66,7 @@ soon
 
 ### Why does KeyOvr only support macOS 14 and later?
 
-KeyOvr uses system APIs that are only available for macOS 14 or more.
+KeyOvr uses system APIs that are only available for macOS 14 or later.
 
 ## License
 

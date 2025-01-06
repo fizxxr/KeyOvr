@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/user-attachments/assets/d97b0cb4-4a06-45b2-8722-34216fe77c08)<div align="center">
     <img src="assets/AppIcon-256.png" width=200 height=200>
     <h1>KeyOvr</h1>
 </div>
@@ -45,11 +45,16 @@ soon
 - [x] Add/Remove Custom keys
 - [ ] Toggle Custom keys
 
-### Menubar
+### Others
 
 - [x] Toggle Show/Hide Keystrokes
+- [x] Drag Keystrokes Position
 
-## Troubleshooting
+## Gallery
+
+#### Repositioning Keystrokes
+
+![dragrepositioning](assets/dragrepositioning.gif)
 
 
 ## Frequently Asked Questions

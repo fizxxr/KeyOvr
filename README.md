@@ -10,6 +10,20 @@ KeyOvr (stands for Keystroke Overlay) is an open source WASD keystroke visualize
 ![Requirements](https://img.shields.io/badge/requirements-macOS%2014%2B-fa4e49?style=flat-square)
 [![License](https://img.shields.io/github/license/fizxxr/KeyOvr?style=flat-square)](LICENSE)
 
+**Contents**
+
+- [Installation](#installation)
+  - [Manual Installation](#Manual)
+  - [Installation via Homebrew](#Homebrew)
+- [Features](#roadmap/features)
+  - [Appearance](#appearance)
+  - [Layout](#layout)
+  - [Others](#others)
+- [Troubleshooting](#troubleshooting)
+- [Gallery](#gallery)
+- [Frequently asked Questions](#frequently-asked-questions)
+- [License](#license)
+
 ## Installation
 
 ### Manual
@@ -54,6 +68,10 @@ soon
 
 - [x] Toggle Show/Hide Keystrokes
 - [x] Drag Keystrokes Position
+
+## Troubleshooting
+
+### Soon
 
 ## Gallery
 

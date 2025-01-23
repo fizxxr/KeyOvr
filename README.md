@@ -3,7 +3,7 @@
     <h1>KeyOvr</h1>
 </div>
 
-KeyOvr (stands for Keystroke Overlay) is an open source WASD keystroke visualizer.
+KeyOvr (stands for Keystroke Overlay) is an open source WASD keystroke visualizer app for MacOS.
 
 [![Download](https://img.shields.io/badge/download-latest-brightgreen?style=flat-square)](https://github.com/fizxxr/KeyOvr/releases/latest)
 ![Platform](https://img.shields.io/badge/platform-macOS-blue?style=flat-square)

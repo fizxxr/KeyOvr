@@ -13,9 +13,9 @@ KeyOvr (stands for Keystroke Overlay) is an open source WASD keystroke visualize
 **Contents**
 
 - [Installation](#installation)
-  - [Manual Installation](#Manual)
-  - [Installation via Homebrew](#Homebrew)
-- [Features](#roadmap/features)
+  - [Manual Installation](#manual)
+  - [Installation via Homebrew](#homebrew)
+- [Features](#features)
   - [Appearance](#appearance)
   - [Layout](#layout)
   - [Others](#others)
@@ -38,7 +38,7 @@ If you have homebrew installed, you can Install KeyOvr using the command:
 soon
 ```
 
-## Roadmap/Features
+## Features
 
 ### Appearance
 

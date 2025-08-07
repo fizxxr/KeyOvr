@@ -3,7 +3,7 @@
     <h1>KeyOvr</h1>
 </div>
 
-KeyOvr (stands for Keystroke Overlay) is an open source WASD keystroke visualizer app for MacOS.
+KeyOvr (stands for Keystroke Overlay) is an open source WASD keystroke visualizer app for MacOS targetted for gamers and/or streamers.
 
 [![Download](https://img.shields.io/badge/download-latest-brightgreen?style=flat-square)](https://github.com/fizxxr/KeyOvr/releases/latest)
 ![Platform](https://img.shields.io/badge/platform-macOS-blue?style=flat-square)
@@ -46,13 +46,12 @@ soon
 - [x] Change Button Corner Radius
 - [x] Change Font
 - [x] Change Font Offset
-- [ ] Change Font Size
-- [ ] Chroma (RGB)
-- [ ] Change Specific Background Transparencies
-- [ ] Change Text Transparency when pressed
-- [ ] Change Background Transparency when pressed
-- [ ] Change Text Color
-- [ ] Change Background Color
+- [x] Chroma (RGB)
+- [x] Change Specific Background Transparencies
+- [x] Change Text Transparency when pressed
+- [x] Change Background Transparency when pressed
+- [x] Change Text Color
+- [x] Change Background Color
 
 ### Layout
 
@@ -62,11 +61,12 @@ soon
 - [x] CPS
 - [x] Arrow Keys Mode
 - [x] Add/Remove Custom keys
-- [ ] Toggle Custom keys
 
 ### Others
 
-- [x] Toggle Show/Hide Keystrokes
+- [x] Toggle Hide/Show Keystrokes
+- [x] Toggle Lock/Unlock Keystrokes
+- [x] Recenter Keystrokes Position
 - [x] Drag Keystrokes Position
 
 ## Troubleshooting

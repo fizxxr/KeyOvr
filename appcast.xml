@@ -4,11 +4,11 @@
         <title>KeyOvr</title>
         <item>
             <title>1.0.0</title>
-            <pubDate>Thu, 07 Aug 2025 17:30:03 +0700</pubDate>
+            <pubDate>Thu, 07 Aug 2025 18:31:10 +0700</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/fizxxr/KeyOvr/releases/download/v1.0.0/KeyOvr-v1.0.0.dmg" length="4183631" type="application/octet-stream" sparkle:edSignature="jHanGtvW497Plo5W21j+zdRFGyWG/LKF0NnCmF8XKVLxh/covhXbITQpE7LDPwzcT4DtrH9MsSCxhT7wtk6BDQ=="/>
+            <enclosure url="https://github.com/fizxxr/KeyOvr/releases/download/v1.0.0/KeyOvr-v1.0.0.dmg" length="4183666" type="application/octet-stream" sparkle:edSignature="6t6tH84+wmH8mDJgGm+ndE/VfDZIj6DilS4bxL+qDCtMmETqcMUP1gD35poSpyEJY0HJW0j26wrUFo3o1auGCg=="/>
         </item>
     </channel>
 </rss>

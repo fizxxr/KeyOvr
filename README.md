@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="assets/AppIcon-256.png" width=200 height=200>
+    <img src="assets/AppIcon-1024.png" width=200 height=200>
     <h1>KeyOvr</h1>
 </div>
 

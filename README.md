@@ -71,7 +71,7 @@ soon
 
 ## Troubleshooting
 
-### Soon
+![ScreenshotatAugust07st2025inFinder-ezgif.com-video-to-gif-converter](assets/ScreenshotatAugust07st2025inFinder-ezgif.com-video-to-gif-converter.gif)
 
 ## Gallery
 

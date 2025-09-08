@@ -32,11 +32,7 @@ Download the latest `KeyOvr.dmg` file from the [Release page](https://github.com
 
 ### Homebrew
 
-If you have homebrew installed, you can Install KeyOvr using the command:
-
-```sh
-soon
-```
+Currently, you can't install KeyOvr using Homebrew
 
 ## Features
 
